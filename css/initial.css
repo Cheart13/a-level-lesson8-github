@@ -21,7 +21,7 @@ a:focus, a:active {
 }
 
 nav, footer, header, aside {
-	display: block;
+	display: flex;
 }
 
 html, body {

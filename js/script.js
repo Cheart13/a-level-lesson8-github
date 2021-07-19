@@ -4,3 +4,4 @@ $(document).ready(function () {
 		$('body').toggleClass('lock');
 	});
 });
+<script src="javascript.js"></script>
